@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+Steps for running the code
+1. First of all run bundle install and then rails db:create and rails db:migrate
+2. And then run bundle exec rspec
